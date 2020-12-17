@@ -18,3 +18,6 @@ BUILD           text diff=python whitespace-4
 CMakeLists.txt  text whitespace-2
 LICENSE         text whitespace=trailing-space
 WORKSPACE       text diff=python whitespace-4
+
+.travis.yml     export-ignore
+.github/**      export-ignore
